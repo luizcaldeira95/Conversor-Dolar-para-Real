@@ -1,4 +1,4 @@
-# Conversor-Dolar-para-Real
+# Conversor-Dolar-para-Real 💲👛
 
 Desenvolvido utilizando visualg. O algoritmo recebe o input de 2 valores.
 O primeiro input é a quantidade em reais disponivel
